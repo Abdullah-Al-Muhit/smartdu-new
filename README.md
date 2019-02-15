@@ -1,1 +1,1 @@
-# smartdu-new
+# smartedu-bootstrap-project
